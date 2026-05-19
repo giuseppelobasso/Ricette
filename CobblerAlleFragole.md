@@ -68,7 +68,7 @@
 2. Aggiungi il cioccolato bianco tritato; mescola fino a scioglimento completo.
 3. Unisci un pizzico di sale.
 4. Quando il composto è tiepido, incorpora lo yogurt greco.
-5. Tieni da parte (si addensa raffreddando).
+5. Mettere in frigo per almeno 3 ore, si addensa raffreddando, non mischiare prima di servirlo perde consistenza e non si riesce a fare un quenelle.
 
 ### 2 · Fragole
 
@@ -87,7 +87,7 @@
 
 1. Mescola farina, zucchero, lievito e sale.
 2. Aggiungi il burro freddo a pezzetti; lavora con le polveri fino a consistenza sabbiosa.
-3. Unisci la panna e mescola pochissimo — l'impasto deve restare grezzo e irregolare.
+3. Unisci la panna e mescola pochissimo — l'impasto deve restare grezzo.
 
 ### 5 · Assemblaggio e cottura
 
@@ -99,7 +99,7 @@
 
 ## ✨ Finitura
 
-- Servi **tiepido** con la ganache allo yogurt.
+- Servi **a temperatura ambiente o tiepido** con la ganache allo yogurt.
 - Aggiungi qualche goccia di sciroppo di fragole al momento del servizio.
 
 ---
@@ -111,3 +111,11 @@
 > **Fondo troppo liquido** → prolunga la cottura di qualche minuto scoperto.
 
 > **Teglia** → aggiornare con le misure effettive.
+
+## 🔬 Note dopo le prove
+
+> **Complessità aromatica** — Il piatto è buono ma manca ancora un elemento che lo completi.
+> Possibili direzioni da esplorare:
+> - 🌿 **Rosmarino** in infusione nello sciroppo? — note resinose e alpine, contrasto netto con il dolce
+> - 🍵 **Polvere di matcha** da setacciare sopra? — amaro erbaceo, colore scenografico
+> - 🌱 **Basilico** in infusione nello sciroppo? — freschezza mediterranea, classico abbinamento con la fragola
