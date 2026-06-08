@@ -1,0 +1,180 @@
+---
+---
+
+@import "minima";
+
+/* =============================================
+   RICETTE — Custom theme (warm cookbook style)
+   ============================================= */
+
+/* --- Variabili colore --- */
+$cream:      #fdf6ee;
+$amber:      #c9743a;
+$amber-dark: #9e5528;
+$sage:       #6b7c5e;
+$sage-light: #eef2eb;
+$ink:        #2e2a26;
+$rule:       #e8d9c5;
+
+/* --- Base --- */
+body {
+  background-color: $cream;
+  color: $ink;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.75;
+}
+
+/* --- Header del sito --- */
+.site-header {
+  background-color: $amber;
+  border-top: none;
+  border-bottom: 4px solid $amber-dark;
+
+  .site-title,
+  .site-title:visited {
+    color: #fff;
+    font-family: Georgia, serif;
+    font-size: 1.5rem;
+    letter-spacing: 0.04em;
+  }
+
+  .site-nav .page-link {
+    color: #fff;
+    &:hover { color: $cream; text-decoration: underline; }
+  }
+}
+
+/* --- Titoli --- */
+h1, h2, h3, h4 {
+  font-family: Georgia, serif;
+  color: $amber-dark;
+}
+
+h1 { font-size: 2rem; margin-top: 0.5rem; }
+
+h2 {
+  font-size: 1.35rem;
+  border-bottom: 2px solid $rule;
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  color: $sage;
+  margin-top: 1.5rem;
+}
+
+/* --- Separatori --- */
+hr {
+  border: none;
+  border-top: 1px solid $rule;
+  margin: 2rem 0;
+}
+
+/* --- Blockquote (intro + note) --- */
+blockquote {
+  background: $sage-light;
+  border-left: 4px solid $sage;
+  border-radius: 0 6px 6px 0;
+  color: #4a5240;
+  font-style: italic;
+  margin: 1.25rem 0;
+  padding: 0.75rem 1.25rem;
+
+  p { margin: 0; }
+}
+
+/* --- Tabelle ingredienti --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.75rem 0 1.25rem;
+  font-size: 0.95rem;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+thead {
+  background-color: $amber;
+  color: #fff;
+
+  th {
+    padding: 0.55rem 1rem;
+    text-align: left;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+}
+
+tbody tr {
+  border-bottom: 1px solid $rule;
+
+  &:last-child { border-bottom: none; }
+  &:nth-child(even) { background-color: #fdf0e4; }
+
+  td {
+    padding: 0.5rem 1rem;
+  }
+}
+
+/* --- Passi numerati --- */
+ol {
+  padding-left: 1.5rem;
+
+  li {
+    margin-bottom: 0.4rem;
+  }
+}
+
+/* --- Footer --- */
+.site-footer {
+  background-color: $amber-dark;
+  color: #f5e8d8;
+  border-top: none;
+
+  a { color: #f5e8d8; text-decoration: underline; }
+}
+
+/* --- Post / pagina ricetta --- */
+.post-header {
+  margin-bottom: 1rem;
+}
+
+.post-title {
+  font-size: 2rem;
+  color: $amber-dark;
+}
+
+/* --- Homepage: lista ricette --- */
+.post-list {
+  list-style: none;
+  padding: 0;
+
+  > li {
+    background: #fff;
+    border: 1px solid $rule;
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    transition: box-shadow 0.2s;
+
+    &:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+  }
+}
+
+.post-link {
+  color: $amber-dark;
+  font-size: 1.2rem;
+  font-family: Georgia, serif;
+  text-decoration: none;
+
+  &:hover { text-decoration: underline; }
+}

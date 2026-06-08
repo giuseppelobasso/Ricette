@@ -1,3 +1,6 @@
 title: Le mie Ricette
 description: Raccolta di ricette
 theme: minima
+
+minima:
+  skin: classic
