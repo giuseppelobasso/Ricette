@@ -2,6 +2,7 @@
 layout: post
 title: "🍓 Cobbler alle Fragole con Ganache allo Yogurt"
 date: 2026-06-08
+permalink: /cobbler-fragole/
 ---
 
 > Dolce rustico ispirato al cobbler americano: fragole macerate sotto una coltre di frolla sabbiosa,
