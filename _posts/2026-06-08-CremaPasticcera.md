@@ -2,6 +2,7 @@
 layout: post
 title: "🍮 Crema Pasticcera"
 date: 2026-06-09
+permalink: /crema-pasticcera/
 ---
 
 > Crema pasticcera classica: vellutata, densa e profumata. Perfetta come base per torte, crostate e dolci al cucchiaio.

@@ -2,6 +2,7 @@
 layout: post
 title: "🍰 Pan di Spagna"
 date: 2026-06-08
+permalink: /pan-di-spagna/
 ---
 
 > Pan di Spagna alto e soffice, con tecnica a caldo per una montata stabile e una struttura ariosa. La doppia setacciatura delle farine è il segreto per intrappolare più aria nel composto.

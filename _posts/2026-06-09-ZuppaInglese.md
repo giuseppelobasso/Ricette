@@ -2,6 +2,7 @@
 layout: post
 title: "🍒 Zuppa Inglese"
 date: 2026-06-09
+permalink: /zuppa-inglese/
 ---
 
 La zuppa inglese è un dolce al cucchiaio composto da strati di Pan di Spagna imbevuti di alchermes alternati a crema pasticcera e crema al cioccolato. Le sue origini sono contese tra Ferrara, Firenze, Parma e Mantova.
@@ -14,7 +15,7 @@ La zuppa inglese è un dolce al cucchiaio composto da strati di Pan di Spagna im
 |-----------|--------|
 | 🍽️ Tipo | Dolce al cucchiaio / torta stratificata |
 | ⏱️ Riposo | Almeno 4 ore in frigorifero |
-| 🍶 Resa | 8–10 porzioni |
+| 🍶 Resa | 8 porzioni |
 
 ---
 
@@ -22,9 +23,9 @@ La zuppa inglese è un dolce al cucchiaio composto da strati di Pan di Spagna im
 
 | Ingrediente | Quantità |
 |-------------|----------|
-| [Pan di Spagna]({% post_url 2026-06-08-PanDiSpagna %})  | 2 basi da 24 cm |
-| [Crema Pasticcera con Panna]({% post_url 2026-06-08-CremaPasticcera %}) | 600 g circa |
-| [Crema Pasticcera al cioccolato]({% post_url 2026-06-08-CremaPasticcera %}) | 600 g circa |
+| [Pan di Spagna]({{ '/pan-di-spagna/' | relative_url }}) | 2 basi da 24 cm |
+| [Crema Pasticcera con Panna]({{ '/crema-pasticcera/' | relative_url }}) | 600 g circa |
+| [Crema Pasticcera al cioccolato]({{ '/crema-pasticcera/' | relative_url }}) | 600 g circa |
 | Alchermes | q.b. |
 | Acqua o sciroppo leggero | q.b. |
 | Cacao amaro | q.b. |
@@ -42,9 +43,9 @@ La zuppa inglese è un dolce al cucchiaio composto da strati di Pan di Spagna im
 
 ### 1 · Basi
 
-1. Prepara il [Pan di Spagna]({% post_url 2026-06-08-PanDiSpagna %}) e lascialo raffreddare completamente.
-2. Prepara la [Crema Pasticcera con Panna]({% post_url 2026-06-08-CremaPasticcera %}) e falla raffreddare bene.
-3. Prepara la [Crema Pasticcera Al Cioccolato]({% post_url 2026-06-08-CremaPasticcera %}) e falla raffreddare bene.
+1. Prepara il [Pan di Spagna]({{ '/pan-di-spagna/' | relative_url }}) e lascialo raffreddare completamente.
+2. Prepara la [Crema Pasticcera con Panna]({{ '/crema-pasticcera/' | relative_url }}) e falla raffreddare bene.
+3. Prepara la [Crema Pasticcera Al Cioccolato]({{ '/crema-pasticcera/' | relative_url }}) e falla raffreddare bene.
 
 ### 2 · Taglio e bagna
 
