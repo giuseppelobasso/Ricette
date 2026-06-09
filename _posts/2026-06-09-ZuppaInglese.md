@@ -22,7 +22,7 @@ La zuppa inglese è un dolce al cucchiaio composto da strati di Pan di Spagna im
 
 | Ingrediente | Quantità |
 |-------------|----------|
-| [Pan di Spagna](PanDiSpagna.md) | 2 basi da 24 cm |
+| [Pan di Spagna]({% post_url 2026-06-08-PanDiSpagna %})  | 2 basi da 24 cm |
 | [Crema Pasticcera con Panna]({% post_url 2026-06-08-CremaPasticcera %}) | 600 g circa |
 | [Crema Pasticcera al cioccolato]({% post_url 2026-06-08-CremaPasticcera %}) | 600 g circa |
 | Alchermes | q.b. |
@@ -42,7 +42,7 @@ La zuppa inglese è un dolce al cucchiaio composto da strati di Pan di Spagna im
 
 ### 1 · Basi
 
-1. Prepara il [Pan di Spagna](PanDiSpagna.md) e lascialo raffreddare completamente.
+1. Prepara il [Pan di Spagna]({% post_url 2026-06-08-PanDiSpagna %}) e lascialo raffreddare completamente.
 2. Prepara la [Crema Pasticcera con Panna]({% post_url 2026-06-08-CremaPasticcera %}) e falla raffreddare bene.
 3. Prepara la [Crema Pasticcera Al Cioccolato]({% post_url 2026-06-08-CremaPasticcera %}) e falla raffreddare bene.
 
