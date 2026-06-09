@@ -91,3 +91,25 @@ date: 2026-06-08
 > **Pan di Spagna più compatto e ricco** → sostituisci una parte delle uova intere con tuorli aggiuntivi. I tuorli apportano più grassi e lecitina, rendendo la struttura più densa e umida;ideale per torte farcite che devono reggere bene al taglio; a discapito del meno voluminosa e della leggerezza pesante; il pan di spagna risulta meno alto e arioso rispetto alla versione con sole uova intere.
 
 > **Pan di Spagna più delicato** → sostituisci una parte della farina con amido di mais o fecola di patate (fino al 50% del totale delle polveri). Gli amidi non formano glutine, quindi il risultato è una mollica più tenera e scioglievole — perfetto come base per mousse o creme delicate. La struttura è meno resistente e tende a sbriciolarsi al taglio; non è adatto a torte che devono reggere farciture pesanti o bagne abbondanti.
+
+## 🔬 Tipi di montata: leggera, media, pesante
+- **Nota sul rapporto uova:polveri:** la qualità e la tenuta della montata dipendono non solo dal grado di montaggio ma anche dal rapporto peso `uova : totale polveri` (farine + fecola). In generale, un rapporto più alto (più uova rispetto alle polveri) facilita l'incorporo d'aria e una struttura più leggera e stabile; un rapporto più basso produce una mollica più densa. Indicazioni approssimative:
+	- Montata leggera: rapporto uova:polveri ≈ 1:0.6
+	- Montata media: rapporto uova:polveri ≈ 1:0.8
+	- Montata pesante: rapporto uova:polveri ≈ 1:1
+	- Nota: albumi in percentuale maggiore favoriscono aerazione; tuorli aumentano grasso e tenuta ma riducono in parte il volume.
+
+
+- **Montata leggera**
+	- Ha bolle relativamente grandi ed irregolari, struttura morbida e più umida; scarsa stabilità, tende a sgonfiarsi facilmente e non regge farciture pesanti.
+	- Uso: torte delicate, basi per mousse, sponge che devono assorbire bagne.
+
+
+- **Montata media**
+	- Ha un buon equilibrio tra leggerezza e tenuta; bolle più piccole e regolari. Altezza e struttura sufficienti per torte farcite; mantiene morbidezza senza essere troppo fragile.
+	- Uso: Pan di Spagna standard, torte a strati con farciture leggere o inserti.
+
+
+- **Montata pesante**
+	- è un composto molto chiaro e stabile, ha bolle molto piccole e numerose; la struttura è fitta e regge tagli netti e farciture più consistenti.
+	- Uso: Torte monumentali e ripieni pesanti
