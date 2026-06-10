@@ -8,7 +8,7 @@ tags: ["crema", "alchermes", "assemblaggio"]
 
 > Zuppa inglese classica, costruita a strati con pan di spagna e crema pasticcera già pronti. Qui trovi solo l'assemblaggio: per le basi, segui le ricette dedicate del [Pan di Spagna]({{< ref "/posts/pan-di-spagna" >}}) e della [Crema Pasticcera]({{< ref "/posts/crema-pasticcera" >}}).
 
----
+<!--more-->
 
 ## 📋 Informazioni
 

@@ -8,7 +8,7 @@ tags: ["crema", "pasticcera", "base"]
 
 > Crema pasticcera classica: vellutata, densa e profumata. Perfetta come base per torte, crostate e dolci al cucchiaio.
 
----
+<!--more-->
 
 ## 📋 Informazioni
 

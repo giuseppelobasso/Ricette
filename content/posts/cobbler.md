@@ -9,7 +9,7 @@ tags: ["fragole", "cobbler", "ganache", "forno"]
 > Dolce rustico ispirato al cobbler americano: fragole macerate sotto una coltre di frolla sabbiosa,
 > servito tiepido con una ganache morbida allo yogurt greco e uno sciroppo leggero di fragole.
 
----
+<!--more-->
 
 ## 📋 Informazioni
 
