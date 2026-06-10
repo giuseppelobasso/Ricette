@@ -1,0 +1,55 @@
+baseURL: "https://giuseppelobasso.github.io/Ricette/"
+languageCode: "it"
+title: "Le mie Ricette"
+theme: "congo"
+future: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+taxonomies:
+  category: categories
+  tag: tags
+
+menu:
+  main:
+    - name: Archivio
+      url: /Ricette/archives/
+      weight: 10
+    - name: Cerca
+      url: /Ricette/search/
+      weight: 20
+    - name: Categorie
+      url: /Ricette/categories/
+      weight: 30
+
+params:
+  colorScheme: fire
+  defaultAppearance: light
+
+  homepage:
+    layout: card
+    showRecent: true
+    recentLimit: 20
+
+  article:
+    showDate: true
+    showAuthor: false
+    showReadingTime: false
+    showTableOfContents: false
+    showTaxonomies: true
+    showWordCount: false
+
+  list:
+    showSummary: true
+
+  header:
+    layout: basic
+
+  footer:
+    showCopyright: false
+    showThemeAttribution: false
+    showScrollToTop: true

@@ -1,0 +1,60 @@
+/*
+ * Palette amber/cream — override Congo "fire" color scheme
+ *
+ * Congo usa CSS custom properties per i colori del tema.
+ * Le variabili --color-primary-* sono i toni dell'accento principale.
+ * I valori sono in formato "R G B" (senza virgole) per compatibilità
+ * con le utility Tailwind che usano rgba().
+ */
+
+:root {
+  --color-primary-50:  254 243 232;
+  --color-primary-100: 253 230 200;
+  --color-primary-200: 251 200 138;
+  --color-primary-300: 247 165  74;
+  --color-primary-400: 232 135  42;
+  --color-primary-500: 201 116  58;
+  --color-primary-600: 158  85  40;
+  --color-primary-700: 122  62  29;
+  --color-primary-800:  90  45  20;
+  --color-primary-900:  61  30  13;
+  --color-primary-950:  38  18   8;
+}
+
+/* Sfondo crema per tutto il sito */
+body {
+  background-color: #fdf6ee;
+}
+
+/* Card e superfici neutre → tono crema invece di bianco puro */
+.bg-neutral-50,
+.dark\:bg-neutral-900 {
+  background-color: #fdf6ee;
+}
+
+.bg-neutral-100,
+.bg-neutral-200 {
+  background-color: #f5ead8;
+}
+
+/* Header */
+header.sticky {
+  background-color: #f5ead8 !important;
+  border-bottom: 1px solid #e8d9c5;
+}
+
+/* Separatori orizzontali */
+hr {
+  border-color: #e8d9c5;
+}
+
+/* Tabelle — testa con tono caldo */
+thead {
+  background-color: #f5ead8;
+}
+
+/* Blockquote — bordo ambra */
+blockquote {
+  border-left-color: #c9743a;
+  background-color: #fef7ee;
+}
