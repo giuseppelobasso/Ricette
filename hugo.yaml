@@ -17,13 +17,13 @@ taxonomies:
 menu:
   main:
     - name: Archivio
-      url: /Ricette/archives/
+      pageRef: archives
       weight: 10
     - name: Cerca
-      url: /Ricette/search/
+      pageRef: search
       weight: 20
     - name: Categorie
-      url: /Ricette/categories/
+      url: categories/
       weight: 30
 
 params:
@@ -31,9 +31,10 @@ params:
   defaultAppearance: light
 
   homepage:
-    layout: card
+    layout: page
     showRecent: true
     recentLimit: 20
+    cardView: true
 
   article:
     showDate: true
@@ -45,6 +46,7 @@ params:
 
   list:
     showSummary: true
+    cardView: true
 
   header:
     layout: basic
