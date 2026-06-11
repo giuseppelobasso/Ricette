@@ -23,12 +23,13 @@ menu:
       pageRef: search
       weight: 20
     - name: Categorie
-      url: categories/
+      url: /Ricette/categories/
       weight: 30
 
 params:
   colorScheme: fire
   defaultAppearance: light
+  enableSearch: true
 
   homepage:
     layout: page
