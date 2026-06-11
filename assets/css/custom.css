@@ -49,25 +49,41 @@ hr {
   border-color: #e8d9c5;
 }
 
-/* Tabelle — testa con tono caldo e testo scuro */
+/* Tabelle — testa con tono caldo e testo scuro.
+   In dark mode, prose-invert imposta --tw-prose-headings quasi-bianco per i th.
+   Match esatto del selettore Tailwind per vincere sulla specificità. */
 thead {
   background-color: #f5ead8;
+}
+
+.dark thead th,
+.dark .prose thead th,
+.dark .prose :where(thead th):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   color: #292524;
 }
 
-thead th {
-  color: #292524;
-}
-
-/* Blockquote — bordo ambra, sfondo crema con testo scuro esplicito
-   (necessario perché in dark mode il testo eredita quasi-bianco ma lo sfondo è chiaro) */
+/* Blockquote — bordo ambra, sfondo crema con testo scuro.
+   In dark mode, prose-invert imposta --tw-prose-quotes quasi-bianco.
+   Sovrascriviamo la variabile e il colore diretto con selettori più specifici. */
 blockquote {
   border-left-color: #c9743a;
   background-color: #fef7ee;
-  color: #292524;
 }
 
-blockquote p,
-blockquote a {
+.dark .prose {
+  --tw-prose-quotes: #292524;
+}
+
+.dark blockquote,
+.dark .prose blockquote,
+.dark .prose :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: #292524;
+  background-color: #fef7ee;
+}
+
+.dark blockquote p,
+.dark blockquote a,
+.dark .prose blockquote p,
+.dark .prose blockquote a {
   color: #292524;
 }
