@@ -23,7 +23,7 @@ menu:
       pageRef: search
       weight: 20
     - name: Categorie
-      url: /Ricette/categories/
+      url: /categories/
       weight: 30
 
 params:
