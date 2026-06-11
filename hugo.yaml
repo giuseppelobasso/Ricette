@@ -19,9 +19,6 @@ menu:
     - name: Archivio
       pageRef: archives
       weight: 10
-    - name: Cerca
-      pageRef: search
-      weight: 20
     - name: Categorie
       url: /categories/
       weight: 30
