@@ -1,13 +1,9 @@
 ---
 title: "🍓 Cobbler alle Fragole con Ganache allo Yogurt"
 date: 2026-06-08
-description: "Dolce rustico ispirato al cobbler americano: fragole macerate sotto una coltre di frolla sabbiosa, servito tiepido con una ganache morbida allo yogurt greco e uno sciroppo leggero di fragole."
 categories: ["Dolci"]
-tags: ["fragole", "cobbler", "ganache", "forno"]
+tags: ["fragole", "cobbler", "ganache"]
 ---
-
-> Dolce rustico ispirato al cobbler americano: fragole macerate sotto una coltre di frolla sabbiosa,
-> servito tiepido con una ganache morbida allo yogurt greco e uno sciroppo leggero di fragole.
 
 <!--more-->
 

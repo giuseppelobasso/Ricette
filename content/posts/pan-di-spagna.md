@@ -1,12 +1,9 @@
 ---
 title: "🍰 Pan di Spagna"
 date: 2026-06-08
-description: "Pan di Spagna alto e soffice, con tecnica a caldo per una montata stabile e una struttura ariosa. La doppia setacciatura delle farine è il segreto per intrappolare più aria nel composto."
 categories: ["Basi"]
-tags: ["base", "pan-di-spagna", "uova"]
+tags: ["base", "pan-di-spagna"]
 ---
-
-> Pan di Spagna alto e soffice, con tecnica a caldo per una montata stabile e una struttura ariosa. La doppia setacciatura delle farine è il segreto per intrappolare più aria nel composto.
 
 <!--more-->
 
