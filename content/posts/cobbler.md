@@ -12,7 +12,7 @@ tags: ["fragole", "cobbler", "ganache"]
 | Parametro | Valore |
 |-----------|--------|
 | 🌡️ Forno | Statico — 180 °C |
-| 🥘 Teglia | Alluminio _(misure da inserire)_ |
+| 🥘 Teglia | Alluminio 6 porzioni 20x30|
 | 🍶 Sciroppo | Solo in finitura |
 
 ---
@@ -111,5 +111,3 @@ tags: ["fragole", "cobbler", "ganache"]
 > **Fragole molto mature** → riduci leggermente lo zucchero nella macerazione.
 
 > **Fondo troppo liquido** → prolunga la cottura di qualche minuto scoperto.
-
-> **Teglia** → aggiornare con le misure effettive.
