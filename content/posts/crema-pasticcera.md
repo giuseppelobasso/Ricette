@@ -28,7 +28,7 @@ tags: ["crema","base"]
 | Latte intero | 500 g |
 | Zucchero | 110 g |
 | Tuorli medi | 4–6 |
-| Amido di mais | 45–55 g |
+| Amido di mais | 35–50 g |
 | Sale | 1 pizzico |
 
 ### 🌿 Aromi (opzionali)
@@ -85,3 +85,7 @@ tags: ["crema","base"]
 > **Crema alla panna** → sostituisci fino a metà del latte con panna liquida. Il maggiore contenuto di grassi rende la crema più ricca, vellutata e stabile — ideale per farciture che devono reggere a lungo.
 
 > **Crema al cioccolato** → sostituisci fino al **10%** degli amidi con cacao amaro in polvere e aggiungi fino al **20%** di cioccolato fuso, fuori dal fuoco, prima di coprire con pellicola.
+
+## 💡 Modifiche
+
+- Abbassata quantità di amido. 

@@ -21,8 +21,9 @@ tags: ["crema", "alchermes"]
 
 | Ingrediente | Quantità |
 |-------------|----------|
-| [Pan di Spagna]({{< ref "/posts/pan-di-spagna" >}}) | 1 base da 24 cm |
-| [Crema Pasticcera]({{< ref "/posts/crema-pasticcera" >}}) | 600 g circa |
+| [Pan di Spagna]({{< ref "/posts/pan-di-spagna" >}}) | 1 base da 28 cm |
+| [Crema Pasticcera]({{< ref "/posts/crema-pasticcera" >}}) | 800 g circa |
+| [Crema al Cioccolato]({{< ref "/posts/crema-pasticcera" >}}) | 800 g circa |
 | Alchermes | q.b. |
 | Acqua o sciroppo leggero | q.b. |
 | Cacao amaro | q.b. |
@@ -66,7 +67,7 @@ tags: ["crema", "alchermes"]
 
 ## 📝 Note
 
-> **Bagna** → l'alchermes può essere dosato puro per un gusto più deciso oppure allungato per una zuppa inglese più equilibrata.
+> **Bagna** → l'alchermes può essere dosato puro per un gusto più deciso oppure allungato per una zuppa inglese più equilibrata, la bagna deve essere abbondante.
 
 > **Struttura** → il pan di spagna deve essere ben asciutto e freddo, così assorbe la bagna senza sfaldarsi.
 
