@@ -1,9 +1,11 @@
 ---
-title: "Padellino Torinese"
+title: "🍕 Padellino Torinese"
 date: 2026-06-08
 categories: ["Salati"]
 tags: ["pizza", "lievitati"]
 ---
+
+<!--more-->
 
 ## 📋 Informazioni
 
