@@ -43,8 +43,8 @@ tags: ["pizza", "lievitati"]
 
 ## ⚖️ Calcoli per teglie tonde
 
-Per uno da 24: 12*12*x*3,14 = 240
+Per uno da 24: 12×12×x×3,14 = 240
 
-X = 240/12*12*3,14 = 0,53 fattore moltiplicativo
+X = 240/12×12×3,14 = 0,53 fattore moltiplicativo
 
-Per uno da 28: 14*14*0,53*3,14= 330
+Per uno da 28: 14×14×0,53×3,14= 330
