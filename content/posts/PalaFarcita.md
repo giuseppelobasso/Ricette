@@ -23,9 +23,9 @@ tags: ["pizza", "lievitati"]
 
 | Ingrediente | Quantità |
 |-------------|----------|
-| Farina Caputo Nuvola | 500 g
-| Acqua | 360 g
-| Olio | 10 g
-| Sale | 15 g
-| Lievito | 5 g
+| Farina Caputo Nuvola | 500 g |
+| Acqua | 360 g |
+| Olio | 10 g |
+| Sale | 15 g |
+| Lievito | 5 g |
 

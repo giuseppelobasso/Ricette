@@ -23,11 +23,11 @@ tags: ["pizza", "lievitati"]
 
 | Ingrediente | Quantità |
 |-------------|----------|
-| Farina Caputo Aria | 750 g
-| Acqua | 525 g
-| Olio | 22,5 g
-| Sale | 15 g
-| Lievito | 5 g
+| Farina Caputo Aria | 750 g |
+| Acqua | 525 g |
+| Olio | 22,5 g |
+| Sale | 15 g |
+| Lievito | 5 g |
 
 ## 👨‍🍳 Procedimento
 

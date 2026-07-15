@@ -23,14 +23,14 @@ tags: ["pane", "lievitati"]
 
 | Ingrediente | Quantità |
 |-------------|----------|
-| Farina Caputo Manitoba Oro  | 500 g
-| Farina Caputo Alba | 200 g
-| Latte | 470 ml
-| Uova | 3
-| Zucchero | 110 g
-| Lievito di birra fresco | 10 g
-| Burro | 90 g
-| Sale | 14 g
+| Farina Caputo Manitoba Oro  | 500 g |
+| Farina Caputo Alba | 200 g |
+| Latte | 470 ml |
+| Uova | 3 |
+| Zucchero | 110 g |
+| Lievito di birra fresco | 10 g |
+| Burro | 90 g |
+| Sale | 14 g |
 
 ## 👨‍🍳 Procedimento
 
